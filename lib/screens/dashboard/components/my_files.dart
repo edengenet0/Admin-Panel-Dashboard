@@ -19,7 +19,7 @@ class MyFiles extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
             Text(
-              "Files",
+              "My Files",
               style: Theme.of(context).textTheme.titleMedium,
             ),
             ElevatedButton.icon(
